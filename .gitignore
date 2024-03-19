@@ -1,0 +1,8 @@
+/.venv
+/__MACOSX
+/checkpoint
+/checkpoint.data-00000-of-00001
+/checkpoint.index
+/data
+/models
+/pip
